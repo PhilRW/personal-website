@@ -1,0 +1,22 @@
+[
+  {
+    "school": "Regis University",
+    "degree": "Master of Science",
+    "major": "Software Engineering",
+    "notes": "Java EE and Android",
+    "range": "2013 - 2018"
+  },
+  {
+    "school": "University of Southern California",
+    "degree": "Master of Fine Arts",
+    "major": "Cinema-Television Production",
+    "range": "2002 - 2006"
+  },
+  {
+    "school": "University of Northern Colorado",
+    "degree": "Bachelor of Arts",
+    "major": "Musical Theater",
+    "notes": "Emphasis in Acting",
+    "range": "1998 - 2002"
+  }
+]

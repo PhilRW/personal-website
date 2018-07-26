@@ -1,0 +1,94 @@
+[
+  {
+    "grouping": "Personality",
+    "skills": [
+      "Early adopter",
+      "Long term strategic thinker",
+      "Engaged intense focus",
+      "Always \"why\""
+    ]
+  },
+  {
+    "grouping": "Productivity",
+    "skills": [
+      "Quiet crucial to flow",
+      "Independent worker"
+    ]
+  },
+  {
+    "grouping": "Architecture",
+    "skills": [
+      "IP Networking",
+      "DNS",
+      "Firewalls",
+      "RESTful APIs",
+      "SaaS/PaaS/IaaS"
+    ]
+  },
+  {
+    "grouping": "Languages, Operating Systems, & Tools",
+    "skills": [
+      "Python",
+      "Java",
+      "git",
+      "linux",
+      "bash",
+      "C",
+      "tcl"
+    ]
+  },
+  {
+    "grouping": "Frameworks",
+    "skills": [
+      {
+        "name": "Robot Framework",
+        "link": "http://robotframework.org/"
+      },
+      {
+        "name": "Hugo",
+        "link": "https://gohugo.io"
+      },
+            {
+        "name": "iTest",
+        "link": "https://www.spirent.com/Products/iTest"
+      },
+
+      {
+        "name": "Wordpress",
+        "link": "https://wordpress.org"
+      }
+    ]
+  },
+  {
+    "grouping": "Containers & Cloud",
+    "skills": [
+      {
+        "name": "AWS",
+        "link": "https://aws.amazon.com"
+      },
+      {
+        "name": "Google Cloud",
+        "link": "https://cloud.google.com"
+      }
+    ]
+  },
+    {
+    "grouping": "Musical",
+    "skills": [
+      "piano",
+      "vocal",
+      "musical direction",
+      "sight-singing"
+    ]
+  },
+
+  {
+    "grouping": "Other",
+    "skills": [
+      "plumbing",
+      "electrical",
+      "automotive",
+      "mechanical"
+    ]
+  }
+]

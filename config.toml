@@ -1,0 +1,40 @@
+baseURL = "https://philip.rosenberg-watt.com/"
+languageCode = "en-us"
+title = "Philip Rosenberg-Watt"
+theme = "hugo-resume"
+
+[params]
+    firstName = "Philip"
+    lastName = "Rosenberg-Watt"
+    address = "Superior, CO"
+    phone = "+13033255192"
+    contactNote = "Software Engineer"
+    profileImage = "images/me.jpg"
+    email = "philip@rosenberg-watt.com"
+    description = "Software Unicorn and Philomath"
+    favicon = "images/favicon.ico"
+    # what sections
+    showSkills = true
+    showProjects = true
+    showOpenSource = true
+    showPublications = false
+    showExperience = true
+    showEducation = true
+
+    showQr = true
+
+[[params.handles]]
+    name = "LinkedIn"
+    link = "https://www.linkedin.com/in/philiprosenbergwatt/"
+
+[[params.handles]]
+    name = "GitHub"
+    link = "https://github.com/PhilRW"
+
+[[params.handles]]
+    name = "Keybase"
+    link = "https://keybase.io/philrw"
+    icon = "key"
+
+[params.google.analytics]
+    trackerID = "UA-8849409-2"
