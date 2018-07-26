@@ -3,6 +3,8 @@ languageCode = "en-us"
 title = "Philip Rosenberg-Watt"
 theme = "hugo-resume"
 
+publishDir = "/keybase/private/philrw,kbpbot/philip.rosenberg-watt.com"
+
 [params]
     firstName = "Philip"
     lastName = "Rosenberg-Watt"
