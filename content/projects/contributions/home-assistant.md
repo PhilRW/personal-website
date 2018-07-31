@@ -17,4 +17,4 @@ image: /images/home-assistant.png
 fact: 
 ---
 
-Fixes for [LaMetric time](https://lametric.com/), offline Google Calendar machine, floating-point math temperature display errors, MQTT climate device.
+Fixes for [LaMetric time](https://lametric.com/), offline Google Calendar caching, floating-point math temperature display errors, MQTT climate device fixes.
