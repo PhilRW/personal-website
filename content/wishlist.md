@@ -12,5 +12,5 @@ Here are a few gift suggestions, in no particular order:
 - [ ] [IoTaWatt home energy monitor](https://iotawatt.com/)
 - [ ] a pair of [Lem's Shoes](https://www.lemsshoes.com/) (leather boots perhaps?)
 - [ ] Model 3 [floor mats](https://shop.tesla.com/us/en/product/vehicle-accessories/model-3-all-weather-interior-mats.html)
-- [ ] Something BIFL from [Best Made Company](https://www.bestmadeco.com/) (e.g., gloves, hat, bag, book of knots, other; think: utility/function/usability/everyday or emergency preparedness)
+- [ ] Something BIFL from [Best Made Company](https://www.bestmadeco.com/) (e.g., gloves, hat, bag, book of knots, other; think: utility/function/usability/everyday or emergency preparedness; could probably use a new belt)
 
