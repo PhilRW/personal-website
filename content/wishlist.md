@@ -1,5 +1,5 @@
 ---
-title: "Holiday Wishlist"
+title: "Personal Gift Ideas"
 date: 2018-11-01T09:46:56-06:00
 draft: false
 ---
