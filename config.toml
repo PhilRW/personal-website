@@ -1,4 +1,4 @@
-baseURL = "https://philip.rosenberg-watt.com/"
+baseURL = "http://philip.rosenberg-watt.com/"
 languageCode = "en-us"
 title = "Philip Rosenberg-Watt"
 theme = "hugo-resume"
