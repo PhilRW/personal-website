@@ -9,7 +9,7 @@ outputs:
 - rss
 - json
 ---
-I'm a Senior Software Engineer at [CableLabs](https://www.cablelabs.com/) and quite happy in my job. I create art, be it through code, performance, or other. It would take a tremendous offer to uproot me, but I'm always willing to listen. But please be concise, I've got to get back to work. I'm open to opportunities to make the world better.
+I'm a Senior Software Engineer at [CableLabs](https://www.cablelabs.com/) and quite happy in my job. I create art, be it through code, performance, or other. It would take a tremendous offer to uproot me, but I'm always willing to listen. But please be concise, I've got to get back to work. I'm open to opportunities to make the world better. Find <a rel="me" href="https://mastodon.rosenberg-watt.com/@philrw">me</a> on social media.
 
 <link rel="authorization_endpoint" href="https://indieauth.com/auth">
 <link rel="token_endpoint" href="https://tokens.indieauth.com/token">

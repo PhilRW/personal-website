@@ -39,5 +39,9 @@ publishDir = "/Users/prosenberg-watt/Documents/Sync/personal-website"
     link = "https://keybase.io/philrw"
     icon = "key"
 
+[[params.handles]]
+    name = "Mastodon"
+    link = "https://mastodon.rosenberg-watt.com/@philrw"
+
 [params.google.analytics]
     trackerID = "UA-8849409-2"
