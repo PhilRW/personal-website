@@ -37,7 +37,6 @@ publishDir = "/Users/prosenberg-watt/Documents/Sync/personal-website"
 [[params.handles]]
     name = "Keybase"
     link = "https://keybase.io/philrw"
-    icon = "key"
 
 [[params.handles]]
     name = "Mastodon"
