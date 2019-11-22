@@ -42,5 +42,10 @@ publishDir = "/Users/prosenberg-watt/Documents/Sync/personal-website"
     name = "Mastodon"
     link = "https://mastodon.rosenberg-watt.com/@philrw"
 
+[[params.handles]]
+    name = "SSB"
+    link = "https://viewer.scuttlebot.io/%40HF6RdxA1t1+5oAbVFzipyxa1v1x7TYrzUNzxvo72Ga4=.ed25519"
+    icon = "secure-scuttlebutt"
+
 [params.google.analytics]
     trackerID = "UA-8849409-2"
