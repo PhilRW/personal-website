@@ -15,7 +15,7 @@ relativeURLs = true
     contactNote = "Software Engineer"
     profileImage = "images/me.jpg"
     email = "philip@rosenberg-watt.com"
-    description = "Software Unicorn and Philomath"
+    description = "Software Unicorn, Philomath, and Polymath"
     favicon = "images/favicon.ico"
     # what sections
     showSkills = true
@@ -36,17 +36,12 @@ relativeURLs = true
     link = "https://github.com/PhilRW"
 
 [[params.handles]]
-    name = "Keybase"
-    link = "https://keybase.io/philrw"
-
-[[params.handles]]
     name = "Mastodon"
     link = "https://mastodon.rosenberg-watt.com/@philrw"
 
 [[params.handles]]
-    name = "SSB"
-    link = "https://viewer.scuttlebot.io/%40HF6RdxA1t1+5oAbVFzipyxa1v1x7TYrzUNzxvo72Ga4=.ed25519"
-    icon = "secure-scuttlebutt"
+    name = "Matrix"
+    link = "https://matrix.to/#/@philrw:matrix.rosenberg-watt.com"
 
 [params.google.analytics]
     trackerID = "UA-8849409-2"
