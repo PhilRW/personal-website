@@ -1,0 +1,26 @@
+kind: pipeline
+
+steps:
+  - name: submodules
+    image: alpine/git
+    commands:
+      - git submodule update --init --recursive
+
+  - name: build
+    image: plugins/hugo
+    settings:
+      hugo_version: 0.68.3
+      validate: true
+
+  - name: rsync
+    image: drillster/drone-rsync
+    settings:
+      user: philip
+      key:
+        from_secret: rsync_key
+      hosts:
+        - docker.rosenberg-watt.com
+      source: ./public/
+      target: /opt/ipfs/export/personal-website/
+      delete: true
+
