@@ -3,4 +3,4 @@
 	url = https://github.com/luizdepra/hugo-coder.git
 [submodule "themes/hugo-resume"]
 	path = themes/hugo-resume
-	url = git@github.com:eddiewebb/hugo-resume.git
+	url = https://github.com/eddiewebb/hugo-resume.git
