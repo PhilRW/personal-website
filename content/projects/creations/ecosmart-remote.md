@@ -4,7 +4,7 @@ date: 2018-07-05
 image: /img/circleci-workflow.png
 link: https://github.com/PhilRW/ecosmart-remote
 image: /images/nodemcu.jpg
-description: embedded firmware remote interface for tankless water heater
+description: Embedded firmware remote interface for tankless water heater
 tags:
 - C
 - CLion
