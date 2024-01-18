@@ -1,9 +1,15 @@
 [
     {
+	"role": "General Contractor",
+        "company": "R±W",
+        "summary": "General contractor for personal residence rebuild post-Marshall Fire.",
+        "range": "November 2023 - Present"
+    },
+    {
         "role":"Software Engineer",
         "company":"CableLabs",
         "summary":"R&D Software team member initiating, enhancing, and maintaining software products.",
-        "range":"April 2016 - Present"
+        "range":"April 2016 - January 2024"
     },
     {
         "role":"Test Automation Engineer",
