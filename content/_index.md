@@ -9,7 +9,7 @@ outputs:
 - rss
 - json
 ---
-I'm a Senior Software Engineer at [CableLabs](https://www.cablelabs.com/) and quite happy in my job. I create art, be it through code, performance, or other. It would take a tremendous offer to uproot me, but I'm always willing to listen. But please be concise, I've got to get back to work. I'm open to opportunities to make the world better.
+I'm a Senior-level Software Engineer. I create art, be it through code, performance, or other. I'm currently working as my own General Contractor to rebuild my house after the Marshall Fire. I a currently available for part-time or contract work and I will be available for full time employment at the end of 2024 when the house is complete. I'm open to opportunities to make the world better.
 
 <link rel="authorization_endpoint" href="https://indieauth.com/auth">
 <link rel="token_endpoint" href="https://tokens.indieauth.com/token">
