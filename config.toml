@@ -22,7 +22,7 @@ enableGitInfo = false
     description = "Software Unicorn, Philomath, and Polymath"
     favicon = "images/favicon.ico"
     showQr = true
-    showContact = false
+    showContact = true
 #    sections = ["skills","publications","creations","contributions","experience","education","blog"]
     sections = ["skills","creations","contributions","experience","education"]
 
@@ -37,14 +37,6 @@ enableGitInfo = false
 [[params.handles]]
     name = "Mastodon"
     link = "https://mastodon.rosenberg-watt.com/@philrw"
-
-[[params.handles]]
-    name = "Matrix"
-    link = "https://matrix.to/#/@philrw:matrix.rosenberg-watt.com"
-
-[[params.handles]]
-    name = "Cal"
-    link = "https://cal.rosenberg-watt.com/philrw"
 
 [outputs]
     home = ["HTML", "JSON"]
