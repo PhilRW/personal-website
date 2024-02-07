@@ -23,20 +23,31 @@ enableGitInfo = false
     favicon = "images/favicon.ico"
     showQr = true
     showContact = true
+    showCertifications = false
+    showSocializations = true
 #    sections = ["skills","publications","creations","contributions","experience","education","blog"]
     sections = ["skills","creations","contributions","experience","education"]
 
 [[params.handles]]
     name = "LinkedIn"
     link = "https://www.linkedin.com/in/philiprosenbergwatt/"
+    icon = "linkedin"
 
 [[params.handles]]
     name = "GitHub"
     link = "https://github.com/PhilRW"
+    icon = "github"
 
 [[params.handles]]
     name = "Mastodon"
     link = "https://mastodon.rosenberg-watt.com/@philrw"
+    icon = "mastodon"
+
+[[params.handles]]
+    name = "Cal"
+    link = "https://cal.rosenberg-watt.com/philrw"
+    icon = "calendar"
+
 
 [outputs]
     home = ["HTML", "JSON"]
