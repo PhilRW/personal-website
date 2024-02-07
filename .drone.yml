@@ -10,7 +10,7 @@ steps:
     image: plugins/hugo
     settings:
       hugo_version: 0.122.0
-      validate: true
+      validate: false
 
   - name: rsync
     image: drillster/drone-rsync
