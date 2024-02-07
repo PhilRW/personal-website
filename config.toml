@@ -3,6 +3,10 @@ languageCode = "en-us"
 title = "Philip Rosenberg-Watt"
 theme = "hugo-resume"
 relativeURLs = true
+PygmentsCodeFences = true
+PygmentsCodeFencesGuessSyntax = true
+PygmentsStyle = "monokai"
+enableGitInfo = false
 
 #publishDir = "/keybase/private/philrw,kbpbot/philip.rosenberg-watt.com"
 #publishDir = "/Users/prosenberg-watt/Documents/Sync/personal-website"
@@ -17,15 +21,10 @@ relativeURLs = true
     email = "philip@rosenberg-watt.com"
     description = "Software Unicorn, Philomath, and Polymath"
     favicon = "images/favicon.ico"
-    # what sections
-    showSkills = true
-    showProjects = true
-    showOpenSource = true
-    showPublications = false
-    showExperience = true
-    showEducation = true
-
     showQr = true
+    showContact = false
+#    sections = ["skills","publications","creations","contributions","experience","education","blog"]
+    sections = ["skills","creations","contributions","experience","education"]
 
 [[params.handles]]
     name = "LinkedIn"
@@ -43,5 +42,9 @@ relativeURLs = true
     name = "Matrix"
     link = "https://matrix.to/#/@philrw:matrix.rosenberg-watt.com"
 
-[params.google.analytics]
-    trackerID = "UA-8849409-2"
+[[params.handles]]
+    name = "Cal"
+    link = "https://cal.rosenberg-watt.com/philrw"
+
+[outputs]
+    home = ["HTML", "JSON"]
