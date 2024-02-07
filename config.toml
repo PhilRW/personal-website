@@ -43,11 +43,5 @@ enableGitInfo = false
     link = "https://mastodon.rosenberg-watt.com/@philrw"
     icon = "mastodon"
 
-[[params.handles]]
-    name = "Cal"
-    link = "https://cal.rosenberg-watt.com/philrw"
-    icon = "calendar"
-
-
 [outputs]
     home = ["HTML", "JSON"]
