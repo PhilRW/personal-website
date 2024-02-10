@@ -23,8 +23,13 @@
       "git",
       "linux",
       "bash",
-      "C",
-      "tcl"
+	"C",
+	"C++",
+	"Go",
+	"tcl",
+	"3D Modeling",
+	"Autodesk Fusion 360",
+	"3D Printing"
     ]
   },
   {
