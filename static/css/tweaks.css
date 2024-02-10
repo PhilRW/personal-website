@@ -97,12 +97,12 @@ div.skills-heading{
 }
 
 .tag:hover {
-  background-color: crimson;
+  background-color: #598bda;
   color: white;
 }
 
 .tag:hover::after {
-   border-left-color: crimson;
+   border-left-color: #5799e6;
 }
 
 .project-fact{
@@ -114,7 +114,7 @@ div.skills-heading{
 
 
 .resume-section blockquote {
-    border-left: 4px solid #BD5D38;
+    border-left: 4px solid #586fbd;
     padding-left: 1em;
 }
 
