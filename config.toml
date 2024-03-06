@@ -43,5 +43,9 @@ enableGitInfo = false
     link = "https://mastodon.rosenberg-watt.com/@philrw"
     icon = "mastodon"
 
+[[params.handles]]
+    name = "reddit"
+    link = "https://www.reddit.com/u/PhilRW"
+
 [outputs]
     home = ["HTML", "JSON"]
